@@ -13,6 +13,10 @@ I'm building hands-on cybersecurity experience through practical labs and projec
   - Simulated GRC case study applying the CIA Triad to assess confidentiality, integrity, and availability risks associated with a highly confidential research document.
   - Explores risk identification, potential security controls, access management, evidence collection, and control testing.
   - [View Project](https://github.com/Dynamix11/cia-triad-risk-assessment)
+ 
+  - **Wayne Enterprises | Cybersecurity Risk Assessment & Treatment**
+  - Structured risk assessment examining confidential financial data exposure, inherent and residual risk, risk scoring, security control recommendations and treatment planning.
+  - [View Project](https://github.com/Dynamix11/wayne-enterprises-risk-assessment)
 
 <h2>🛡️ Areas of Focus</h2>
 
