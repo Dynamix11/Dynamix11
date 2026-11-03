@@ -17,6 +17,11 @@ I'm building hands-on cybersecurity experience through practical labs and projec
 - **Wayne Enterprises | Cybersecurity Risk Assessment & Treatment**
   - Structured risk assessment examining confidential financial data exposure, inherent and residual risk, risk scoring, security control recommendations and treatment planning.
   - [View Project](https://github.com/Dynamix11/wayne-enterprises-risk-assessment)
+ 
+- **Foresight Group | GRC Risk Governance & Three Lines of Defence Review**
+  - Desk-based review of an investment management organisation's risk governance arrangements, covering risk ownership, RCSA, risk appetite, risk reporting and independent assurance.
+  - Examines the application of the Three Lines of Defence model to cybersecurity and third-party risk.
+  - [View Project](https://github.com/Dynamix11/foresight-group-grc-risk-governance)
 
 <h2>🛡️ Areas of Focus</h2>
 
