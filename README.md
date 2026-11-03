@@ -27,7 +27,7 @@ The projects featured here are not an exhaustive list of my work. They represent
 ### 📜 Foresight Group | GRC Risk Governance & Three Lines of Defence Review
 - Conducted a review of risk governance arrangements, covering risk ownership, Risk and Control Self-Assessment (RCSA), risk appetite, risk reporting and independent assurance.
 - Examined the application of the Three Lines of Defence model to cybersecurity and third-party risk.
-View Project(https://github.com/Dynamix11/Foresight-Group-GRC-Risk-Governance-Three-Lines-of-Defence-Review)
+- [View Project](https://github.com/Dynamix11/Foresight-Group-GRC-Risk-Governance-Three-Lines-of-Defence-Review)
 
 ## 🛡️ Core Areas of Expertise
 
