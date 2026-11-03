@@ -1,6 +1,6 @@
 # Hi, I'm Jadesola! 👋
 
-**Cybersecurity & GRC Professional | Cyber Risk | Information Security | Technology Risk**
+**Cybersecurity & GRC | Cyber Risk | Information Security | Technology Risk**
 
 I am a GRC and cyber risk professional with 7+ years of experience in technology, including experience across GRC consulting, enterprise technology, financial services, business analysis and digital transformation.
 
