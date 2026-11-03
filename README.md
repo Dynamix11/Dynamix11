@@ -14,17 +14,17 @@ This GitHub portfolio features a selection of projects and professional work exa
 
 The projects featured here are not an exhaustive list of my work. They represent selected examples demonstrating my approach to risk assessment, security governance, control evaluation, compliance and the application of cybersecurity frameworks in organisational environments. Additional projects and work samples will be added over time.
 
-### CIA Triad Risk Assessment | OsCorp Research Document
+### 📜 CIA Triad Risk Assessment | OsCorp Research Document
 - Applied the CIA Triad to assess confidentiality, integrity and availability risks associated with a highly confidential research document.
 - Examined risk identification, security control recommendations, access management, evidence requirements and control validation.
 - [View Project](https://github.com/Dynamix11/cia-triad-risk-assessment)
 
-### Wayne Enterprises | Cybersecurity Risk Assessment & Treatment
+### 📜 Wayne Enterprises | Cybersecurity Risk Assessment & Treatment
 - Assessed a confidential financial data exposure scenario, including inherent and residual risk, risk scoring, potential business impact and security control recommendations.
 - Documented risk treatment options, evidence requirements and governance considerations.
 - [View Project](https://github.com/Dynamix11/wayne-enterprises-risk-assessment)
 
-### Foresight Group | GRC Risk Governance & Three Lines of Defence Review
+### 📜 Foresight Group | GRC Risk Governance & Three Lines of Defence Review
 - Conducted a desk-based review of risk governance arrangements, covering risk ownership, Risk and Control Self-Assessment (RCSA), risk appetite, risk reporting and independent assurance.
 - Examined the application of the Three Lines of Defence model to cybersecurity and third-party risk.
 
