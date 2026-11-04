@@ -1,6 +1,6 @@
-# Jadesola Olufowobi
+### Jadesola Olufowobi
 
-**GRC | Cyber Risk | Information Security | Technology Risk**
+### GRC | Cyber Risk | Information Security | Technology Risk**
 
 I'm a GRC and cyber risk professional with 7+ years in technology, including 5 years in technology risk and GRC consulting. My background spans GRC consulting, Big 4 technology consulting, financial services, business analysis and digital transformation.
 
