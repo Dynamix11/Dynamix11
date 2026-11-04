@@ -32,15 +32,15 @@ I hold CompTIA Security+ and I'm working toward CRISC.
 
 ## 🛡️Core Areas
 
-**Risk and Compliance:** Cyber risk assessment, third-party risk management, risk registers and treatment, control gap analysis, regulatory obligation mapping, issue and remediation tracking
+** - Risk and Compliance:** Cyber risk assessment, third-party risk management, risk registers and treatment, control gap analysis, regulatory obligation mapping, issue and remediation tracking
 
-**Frameworks and Standards:** ISO/IEC 27001:2022 and Annex A, ISO/IEC 27002, NIST CSF 2.0, NIST SP 800-53, NIST RMF, SOC 2, PCI DSS, COBIT, COSO
+** - Frameworks and Standards:** ISO/IEC 27001:2022 and Annex A, ISO/IEC 27002, NIST CSF 2.0, NIST SP 800-53, NIST RMF, SOC 2, PCI DSS, COBIT, COSO
 
-**Information Security:** ISMS, security policies, standards and SOPs, identity and access management, least privilege and access reviews, vulnerability management, incident response, data protection
+** - Information Security:** ISMS, security policies, standards and SOPs, identity and access management, least privilege and access reviews, vulnerability management, incident response, data protection
 
-**Regulation and Privacy:** GDPR, HIPAA, PIPEDA, OSFI B-10
+** - Regulation and Privacy:** GDPR, HIPAA, PIPEDA, OSFI B-10
 
-**Reporting and Delivery:** Board and management reporting, KPIs and dashboards, stakeholder workshops, requirements analysis, change management
+** - Reporting and Delivery:** Board and management reporting, KPIs and dashboards, stakeholder workshops, requirements analysis, change management
 
 💼 Tools
 
